@@ -48,6 +48,10 @@ SourceArt/**/*.tga
 # Binary Files
 Binaries/*
 Plugins/*/Binaries/*
+AR_AI_Test/Binaries/*
+AR_AI_Test/Intermediate/*
+AR_AI_Test/Saved/*
+AIProject.sln
 
 # Builds
 Build/*
